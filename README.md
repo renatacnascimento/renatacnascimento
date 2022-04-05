@@ -6,3 +6,4 @@
 - 🏡 I'm living in São Paulo
 - 👀 I’m interested in learning HTML, CSS and JavaScript
 - 🐱 I Love Cats and Beer 🍺
+- 📧 Contact: renatacnascimento@yahoo.com.br 
